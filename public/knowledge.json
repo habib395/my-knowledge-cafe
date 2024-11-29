@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/Z2W3ckH/1.jpg",
+      "authorName": "Sophia Reynolds",
+      "authorImage": "https://i.ibb.co.com/H7ZJ856/boy1.png",
+      "title": "Unlocking the Secrets of Mindful Productivity",
+      "hashtags": ["#Productivity", "#Mindfulness", "#SelfHelp"],
+      "readTime": 5,
+      "publishDate": "2 days ago"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/T2jBB5Y/2.png",
+      "authorName": "Liam Carter",
+      "authorImage": "https://i.ibb.co.com/dGDVYRm/boy2.jpg",
+      "title": "The Evolution of Knowledge Cafés in Modern Workspaces",
+      "hashtags": ["#KnowledgeCafe", "#Workplace", "#Innovation"],
+      "readTime": 8,
+      "publishDate": "14 days ago"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/SvNxnB9/3.png",
+      "authorName": "Maya Patel",
+      "authorImage": "https://i.ibb.co.com/BzJLHBb/girl1.jpg",
+      "title": "How to Foster Collaborative Learning in Teams",
+      "hashtags": ["#Teamwork", "#Collaboration", "#Learning"],
+      "readTime": 6,
+      "publishDate": "40 days ago"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/b2kTWPw/4.jpg",
+      "authorName": "Ethan Morgan",
+      "authorImage": "https://i.ibb.co.com/YpwwJQM/girl2.jpg",
+      "title": "Harnessing the Power of Informal Discussions",
+      "hashtags": ["#Discussions", "#KnowledgeSharing", "#Growth"],
+      "readTime": 4,
+      "publishDate": "20 days ago"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/MBhjC6G/one.png",
+      "authorName": "Ava Thompson",
+      "authorImage": "https://i.ibb.co.com/ws8H1cd/profile.png",
+      "title": "Building a Culture of Continuous Learning",
+      "hashtags": ["#Culture", "#Learning", "#Innovation"],
+      "readTime": 7,
+      "publishDate": "5 days ago"
+    }
+  ]
+  
