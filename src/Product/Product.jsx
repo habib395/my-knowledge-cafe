@@ -1,6 +1,6 @@
 import { BsBookmarks } from "react-icons/bs";
 import PropTypes from 'prop-types';
-const Product = ({product}) => {
+const Product = ({product, handleBookmarks, handleReadTime}) => {
     const {image,authorName, authorImage,  hashtags, publishDate, title, readTime } = product
     return (
         <div className="my-5 p-3">
@@ -14,7 +14,7 @@ const Product = ({product}) => {
             </p>
            </div>
           <div>
-            <p className="flex items-center gap-2">{readTime}min read <button><BsBookmarks /></button></p>
+            <p className="flex items-center gap-2">{readTime}min read <button onClick={() => handleBookmarks(product)}><BsBookmarks /></button></p>
           </div>
           </div>
           <h2 className="text-4xl font-semibold">
@@ -29,7 +29,7 @@ const Product = ({product}) => {
                 })
             }
           </p>
-          <button className="underline text-blue-800 font-semibold">Marks as read</button>
+          <button onClick={() => handleReadTime(readTime)}  className="underline text-blue-800 font-semibold">Marks as read</button>
         </div>
     );
 };
